@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
 
 # Load the dataset from an Excel file
-file_path = '/Users/robertadunn/Library/Mobile Documents/com~apple~Numbers/Documents/heart_disease_data.xlsx'
+file_path = ''
 heart_dataset = pd.read_excel(file_path)
 
 # Inspect dataset
